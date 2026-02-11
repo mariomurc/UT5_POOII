@@ -1,6 +1,6 @@
 package E2_Astros;
 
-class Astro {
+public class Astro {
 
     // Atributos
     private String nombre;

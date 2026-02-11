@@ -2,7 +2,7 @@ package E2_Astros;
 
 import java.util.ArrayList;
 
-class Planeta extends Astro{
+public class Planeta extends Astro{
 
     // Atributos
     private double distSol;

@@ -1,5 +1,5 @@
 package E2_Astros;
-class Satelite extends Astro{
+public class Satelite extends Astro{
 
     // Atributos
     private double distPlaneta;
